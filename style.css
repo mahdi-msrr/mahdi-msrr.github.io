@@ -1,0 +1,13 @@
+
+body{
+    direction: rtl;
+    font-family: BYekan,'BYekan',tahoma;
+    text-align: right;
+    background-color: #fff;
+}
+.wb-bg-banner{
+    height: 90vh;
+    
+    background: linear-gradient(to right,#2c5364,#0c171b);
+    background: -webkit-linear-gradient(to right,#2c5364,#0c171b);
+}
